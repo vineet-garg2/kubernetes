@@ -1,6 +1,6 @@
 # Kubernetes
 
-[![Submit Queue Widget]][Submit Queue] [![GoDoc Widget]][GoDoc]
+[![Submit Queueis Widget]][Submit Queue] [![GoDoc Widget]][GoDoc]
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
